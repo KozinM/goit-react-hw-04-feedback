@@ -2,6 +2,7 @@ import PropTypes from 'prop-types';
 import styles from './style.module.css';
 
 const FeedbackOptions = (props) => {
+//  console.log(props);
   return (
     <div>
       {props.options.map(option => (
