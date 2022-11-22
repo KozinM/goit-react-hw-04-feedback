@@ -1,0 +1,9 @@
+.statistic {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .item {
+    margin-bottom: 20px;
+    margin-right: 20px;
+  }
